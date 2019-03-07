@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "podSText"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "这是一个曲线图表.说我太短了,怎么办啊,我要长一点,呵呵呵呵呵,说我太短了,怎么办啊,我要长一点,呵呵呵呵呵,说我太短了,怎么办啊,我要长一点,呵呵呵呵呵,说我太短了,怎么办啊,我要长一点,呵呵呵呵呵,"
 
   # This description is used to generate tags and improve search results.
